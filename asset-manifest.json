@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arrested-memory-development/static/css/main.e5713595.css",
-    "main.js": "/arrested-memory-development/static/js/main.c2d3db76.js",
+    "main.css": "/arrested-memory-development/static/css/main.c74987e5.css",
+    "main.js": "/arrested-memory-development/static/js/main.85759732.js",
     "static/js/787.18b835fd.chunk.js": "/arrested-memory-development/static/js/787.18b835fd.chunk.js",
     "static/media/tobias.gif": "/arrested-memory-development/static/media/tobias.d2ac1eb494531ad8aa93.gif",
     "static/media/seal.jpeg": "/arrested-memory-development/static/media/seal.732684dbbd66a5e9dbe5.jpeg",
@@ -21,12 +21,12 @@
     "static/media/steve_holt.webp": "/arrested-memory-development/static/media/steve_holt.0b2e447fc38ff97ea640.webp",
     "static/media/oscar.jpeg": "/arrested-memory-development/static/media/oscar.857719aa0e333d416449.jpeg",
     "index.html": "/arrested-memory-development/index.html",
-    "main.e5713595.css.map": "/arrested-memory-development/static/css/main.e5713595.css.map",
-    "main.c2d3db76.js.map": "/arrested-memory-development/static/js/main.c2d3db76.js.map",
+    "main.c74987e5.css.map": "/arrested-memory-development/static/css/main.c74987e5.css.map",
+    "main.85759732.js.map": "/arrested-memory-development/static/js/main.85759732.js.map",
     "787.18b835fd.chunk.js.map": "/arrested-memory-development/static/js/787.18b835fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5713595.css",
-    "static/js/main.c2d3db76.js"
+    "static/css/main.c74987e5.css",
+    "static/js/main.85759732.js"
   ]
 }
