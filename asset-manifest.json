@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/arrested-memory-development/static/css/main.e5713595.css",
+    "main.js": "/arrested-memory-development/static/js/main.c2d3db76.js",
+    "static/js/787.18b835fd.chunk.js": "/arrested-memory-development/static/js/787.18b835fd.chunk.js",
+    "static/media/tobias.gif": "/arrested-memory-development/static/media/tobias.d2ac1eb494531ad8aa93.gif",
+    "static/media/seal.jpeg": "/arrested-memory-development/static/media/seal.732684dbbd66a5e9dbe5.jpeg",
+    "static/media/anne.jpeg": "/arrested-memory-development/static/media/anne.262240dab30aaafb2c7a.jpeg",
+    "static/media/tobias.png": "/arrested-memory-development/static/media/tobias.4d145925b151271bedd6.png",
+    "static/media/lucille.webp": "/arrested-memory-development/static/media/lucille.c5b1907ba8c960a8135d.webp",
+    "static/media/Arrested_Development.svg.png": "/arrested-memory-development/static/media/Arrested_Development.svg.c9e0c7c7885942110be1.png",
+    "static/media/franklin.webp": "/arrested-memory-development/static/media/franklin.d1502679c1aa4055cd24.webp",
+    "static/media/george_bluth_image.jpeg": "/arrested-memory-development/static/media/george_bluth_image.2076618ab6a8d79a6857.jpeg",
+    "static/media/georgemichael.jpeg": "/arrested-memory-development/static/media/georgemichael.decff46b30d7d83f0271.jpeg",
+    "static/media/Michael.jpeg": "/arrested-memory-development/static/media/Michael.d837184a28bef01b58e8.jpeg",
+    "static/media/Season_2_Character_Promos_-_G.O.B._01.webp": "/arrested-memory-development/static/media/Season_2_Character_Promos_-_G.O.B._01.2079359842459ea775b1.webp",
+    "static/media/maeby.webp": "/arrested-memory-development/static/media/maeby.d0bea9599939fd588e84.webp",
+    "static/media/arrow3.png": "/arrested-memory-development/static/media/arrow3.17878cfdf0097e10da51.png",
+    "static/media/lindsey.webp": "/arrested-memory-development/static/media/lindsey.e6d54925baba0965f06e.webp",
+    "static/media/buster.jpeg": "/arrested-memory-development/static/media/buster.96415ba5719ec0f1007e.jpeg",
+    "static/media/steve_holt.webp": "/arrested-memory-development/static/media/steve_holt.0b2e447fc38ff97ea640.webp",
+    "static/media/oscar.jpeg": "/arrested-memory-development/static/media/oscar.857719aa0e333d416449.jpeg",
+    "index.html": "/arrested-memory-development/index.html",
+    "main.e5713595.css.map": "/arrested-memory-development/static/css/main.e5713595.css.map",
+    "main.c2d3db76.js.map": "/arrested-memory-development/static/js/main.c2d3db76.js.map",
+    "787.18b835fd.chunk.js.map": "/arrested-memory-development/static/js/787.18b835fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5713595.css",
+    "static/js/main.c2d3db76.js"
+  ]
+}
